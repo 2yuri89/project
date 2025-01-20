@@ -1,0 +1,44 @@
+K_progressive_president	한국 진보 대통령
+K_conservative_president	한국 보수 대통령
+K_progressive_majority	한국 진보 다수당
+K_conservative_majority	한국 보수 다수당
+A_progressive_president	미국 진보 대통령
+A_progressive_president	미국 보수 대통령
+A_progressive_senate	미국 진보 상원 다수당
+A_conservative_senate	미국 보수 상원 다수당
+A_progressive_house	미국 진보 하원 다수당
+A_conservative_house	미국 보수 하원 다수당
+
+한국 (South Korea)
+대통령
+문재인 (진보/Progressive)
+재임 기간: 2017년 5월 10일 ~ 2022년 5월 9일
+윤석열 (보수/Conservative)
+재임 기간: 2022년 5월 10일 ~ 현재 (2023년 기준)
+
+총선 결과 다수당
+2016년 20대 총선 결과 (2016년 4월 13일)
+다수당: 더불어민주당 (진보/Progressive)
+20대 국회 종료: 2020년 5월 29일
+2020년 21대 총선 결과 (2020년 4월 15일)
+다수당: 더불어민주당 (진보/Progressive)
+21대 국회 종료: 2024년 5월 예정
+
+미국 (United States)
+대통령
+도널드 트럼프 (보수/Conservative)
+재임 기간: 2017년 1월 20일 ~ 2021년 1월 20일
+조 바이든 (진보/Progressive)
+재임 기간: 2021년 1월 20일 ~ 현재 (2023년 기준)
+상원 다수당 (Senate Majority Party)
+공화당 (보수/Conservative)
+다수당 기간: 2015년 ~ 2021년 1월 20일
+민주당 (진보/Progressive)
+다수당 기간: 2021년 1월 20일 ~ 현재 (2023년 기준)
+하원 다수당 (House Majority Party)
+공화당 (보수/Conservative)
+다수당 기간: 2011년 ~ 2019년 1월 3일
+민주당 (진보/Progressive)
+다수당 기간: 2019년 1월 3일 ~ 2023년 1월 3일
+공화당 (보수/Conservative)
+다수당 기간: 2023년 1월 3일 ~ 현재 (2023년 기준)
